@@ -8,11 +8,11 @@ variable "sg_name" {
 
 }
 variable "common_tags" {
-    default = {}
+  default = {}
 }
 variable "sg_tags" {
-    default = {}
+  default = {}
 }
 variable "vpc_id" {
-    
+
 }
